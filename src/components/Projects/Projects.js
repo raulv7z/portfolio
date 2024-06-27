@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import chatify from "../../Assets/Projects/nexus-play.png";
+import nexusPlayImage from "../../Assets/Projects/preview-nexus-play.png";
 
 function Projects() {
   return (
@@ -17,9 +17,9 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
-        <Col md={6} className="project-card">
+        <Col md={5} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={nexusPlayImage}
               isBlog={false}
               title="Nexus Play"
               description="Tienda dedicada a la venta de videojuegos inspirada en empresas reales de su competencia como Instant Gaming o Steam. Aplicación web construida con Laravel."
