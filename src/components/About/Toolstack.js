@@ -6,6 +6,7 @@ import {
   SiSlack,
   SiVercel,
   SiMacos,
+  // SiLinux,
 } from "react-icons/si";
 
 function Toolstack() {
