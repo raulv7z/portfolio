@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar-no-bg.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -8,6 +8,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { SiGmail } from "react-icons/si";
 
 function Home2() {
   return (
@@ -16,40 +17,27 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              Permíteme <span className="purple"> presentarme </span>
+              Una breve <span className="purple"> introducción </span>
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+              ¡Hola! Soy <b className="purple">Raúl</b>, un apasionado del desarrollo de software.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              Este es mi portfolio. Aquí muestro información personal,
+              algunas vías de contacto y expongo varios de mis proyectos públicos.
+              <br />
+              <br />Me caracteriza mi dedicación con mis objetivos,
+              así como mi compromiso con ofrecer resultados
+              <b className="purple"> de calidad</b>,
+              siempre en búsqueda de la excelencia técnica.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              En lo personal, me siento cómodo tanto en el desarrollo
+              <b className="purple"> frontend </b>
+                como
+              <b className="purple"> backend</b>,
+              y también disfruto desarrollando aplicaciones fuera del ámbito web.
+              <br />
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,14 +48,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>Conecta conmigo</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Te dejo algunas vías para <span className="purple">contactar </span> conmigo
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/raulv7z"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,17 +65,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/rmm0/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,12 +75,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="mailto:rmm0.office@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <SiGmail />
                 </a>
               </li>
             </ul>
