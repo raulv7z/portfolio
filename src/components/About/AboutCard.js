@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+// import { ImPointRight } from "react-icons/im";
 
 function AboutCard() {
   return (
@@ -19,11 +19,13 @@ function AboutCard() {
             <br />
             <br />
             Si quieres contactar conmigo, puedes hacerlo a través de&nbsp;
-            <a href="mailto:rmm0.office@gmail.com" target="_blank" style={{"color":"#c770f0"}}>
+            <a href="mailto:rmm0.office@gmail.com" target="_blank" 
+                rel="noopener noreferrer" style={{"color":"#c770f0"}}>
               <span className="purple">email</span>
             </a>
             &nbsp;o mediante&nbsp;
-            <a href="https://www.linkedin.com/in/rmm0/" target="_blank" style={{"color":"#c770f0"}}>
+            <a href="https://www.linkedin.com/in/rmm0/" target="_blank" 
+                rel="noopener noreferrer" style={{"color":"#c770f0"}}>
               <span className="purple">LinkedIn</span>
             </a>.
             Estaré encantado de recibir tu mensaje.

@@ -2,7 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
-  SiPostman,
+  // SiPostman,
   SiLinux,
   SiCloudflare,
   // SiLinux,
