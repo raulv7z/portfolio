@@ -6,10 +6,10 @@ function Github() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
       <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-        Days I <strong className="purple">Code</strong>
+        Contribuciones <strong className="purple">2024</strong>
       </h1>
       <GitHubCalendar
-        username="soumyajit4419"
+        username="raulv7z"
         blockSize={15}
         blockMargin={5}
         color="#c084f5"
