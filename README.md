@@ -1,4 +1,4 @@
-# Personal Portfolio
+# [Personal Portfolio](https://portfolio-6pz.pages.dev/)
 
 <p align="center">
     <img src="metadata/images/portfolio-preview.png" alt="Home-page preview">
@@ -12,20 +12,20 @@
 
 This project is a web application built on React.js.
 
-It serves as a collection of my recent projects, ways to contact me, and more. Please feel free to explore and reach out if you have any questions or would like to collaborate.
+It serves as a collection of my recent projects, ways to contact me, and more. Please feel free to [explore my portfolio](https://portfolio-6pz.pages.dev/) and reach out if you have any questions or would like to collaborate.
 
 ## Contact
 
 You can reach me via:
 
-- **Email**: [rmm0.office@gmail.com](mailto:rmm0.office@gmail.com)
-- **LinkedIn**: [Raúl Mora](https://www.linkedin.com/in/rmm0/)
+- **Email**: <a href="mailto:rmm0.office@gmail.com" target="_blank">rmm0.office@gmail.com</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/rmm0/" target="_blank">Raúl Mora</a>
 
 ## Projects
 
 Here are some of my recent projects:
 
-### [Nexus Play](https://github.com/raulv7z/nexus-play)
+### <a href="https://github.com/raulv7z/nexus-play" target="_blank">Nexus Play</a>
 
 Nexus Play is a digital video game store where gamers can discover and purchase their favorite games conveniently.
 
@@ -33,6 +33,6 @@ You can find a wide selection of digital titles across various genres, ensuring 
 
 ## Credits
 
-This repository was originally forked from [Soumyajit Behera](https://github.com/soumyajit4419).
+This repository was originally forked from <a href="https://github.com/soumyajit4419" target="_blank">Soumyajit Behera</a>.
 
 I appreciate their work which served as inspiration and base for this portfolio.
