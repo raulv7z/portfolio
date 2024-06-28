@@ -12,7 +12,7 @@
 
 This project is a web application built on React.js.
 
-It serves as a collection of my recent projects, ways to contact me, and more. Please feel free to [explore my portfolio](https://portfolio-6pz.pages.dev/) and reach out if you have any questions or would like to collaborate.
+It serves as a collection of my recent projects, ways to contact me, and more. Please feel free to <a href="https://portfolio-6pz.pages.dev/" target="_blank">explore my portfolio</a> and reach out if you have any questions or would like to collaborate.
 
 ## Contact
 
