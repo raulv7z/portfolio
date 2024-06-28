@@ -23,7 +23,7 @@ function Home2() {
               <br />
               Este es mi portfolio. Aquí muestro información personal,
               algunas vías de contacto y expongo varios de mis
-              <a link="/project"> proyectos</a> más recientes.
+              <a href="/project" rel="noreferrer"> proyectos</a> más recientes.
               <br />
               <br />Me caracteriza mi dedicación con mis objetivos,
               así como mi compromiso con ofrecer resultados
