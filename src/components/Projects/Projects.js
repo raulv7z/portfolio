@@ -23,7 +23,7 @@ function Projects() {
               isBlog={false}
               title="Nexus Play"
               description="Tienda dedicada a la venta de videojuegos inspirada en empresas reales de su competencia como Instant Gaming o Steam. Aplicación web construida con Laravel."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/raulv7z/nexus-play"
               demoLink="#"
             />
           </Col>
