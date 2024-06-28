@@ -3,7 +3,7 @@
   <a href="https://portfolio-6pz.pages.dev/" target="_blank">portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/portfolio-preview.png" />
 </div>
 
 <br/>
