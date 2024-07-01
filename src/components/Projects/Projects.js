@@ -24,7 +24,7 @@ function Projects() {
                             imgPath={nexusPlayImage}
                             isBlog={false}
                             title="Nexus Play"
-                            description="Tienda dedicada a la venta de videojuegos inspirada en empresas reales de su competencia como Instant Gaming o Steam. Aplicación web construida con Laravel."
+                            description="Tienda dedicada a la venta de videojuegos inspirada en empresas de su competencia como Steam. Aplicación web construida con Laravel."
                             ghLink="https://github.com/raulv7z/nexus-play"
                             demoLink="#"
                         />
