@@ -28,6 +28,8 @@ function Projects() {
                             ghLink="https://github.com/raulv7z/nexus-play"
                             demoLink="#"
                         />
+                    </Col>
+                    <Col md={5} className="project-card">
                         <ProjectCard
                             imgPath={chessJsImage}
                             isBlog={false}
