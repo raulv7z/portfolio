@@ -34,7 +34,7 @@ function Projects() {
                             imgPath={chessJsImage}
                             isBlog={false}
                             title="Chess JS"
-                            description="Proyecto para jugar al ajedrez en dispositivo local construido desde 0 con Vanilla Javascript."
+                            description="Proyecto para jugar al ajedrez 1 contra 1 en el mismo dispositivo. Aplicación web construida desde cero únicamente con Vanilla Javascript."
                             ghLink="https://github.com/raulv7z/chess-js"
                             demoLink="https://chess-js-03m.pages.dev/"
                         />
