@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌟 <a href="https://portfolio-6pz.pages.dev/" target="_blank">My Portfolio</a>
+  🌟 <a href="https://raultech.netlify.app/" target="_blank">My Portfolio</a>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 This project is a web application built on React.js.
 
-It serves as a collection of my recent projects, ways to contact me, and more. Please feel free to <a href="https://portfolio-6pz.pages.dev/" target="_blank">explore my portfolio</a> and reach out if you have any questions or would like to collaborate.
+It serves as a collection of my recent projects, ways to contact me, and more. Please feel free to <a href="https://raultech.netlify.app/" target="_blank">explore my portfolio</a> and reach out if you have any questions or would like to collaborate.
 
 ## Contact
 
