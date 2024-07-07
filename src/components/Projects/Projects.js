@@ -26,7 +26,6 @@ function Projects() {
                             title="Nexus Play"
                             description="Tienda dedicada a la venta de videojuegos inspirada en empresas de su competencia como Steam. Aplicación web construida con Laravel."
                             ghLink="https://github.com/raulv7z/nexus-play"
-                            demoLink="#"
                         />
                     </Col>
                     <Col md={5} className="project-card">
@@ -36,7 +35,7 @@ function Projects() {
                             title="Chess JS"
                             description="Proyecto para jugar al ajedrez 1 contra 1 en el mismo dispositivo. Aplicación web construida desde cero únicamente con Vanilla Javascript."
                             ghLink="https://github.com/raulv7z/chess-js"
-                            demoLink="https://chess-js-03m.pages.dev/"
+                            demoLink="https://chessjsgame.netlify.app/"
                         />
                     </Col>
 
