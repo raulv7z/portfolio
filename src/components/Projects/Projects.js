@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import nexusPlayImage from "../../Assets/Projects/preview-nexus-play.png";
 import chessJsImage from "../../Assets/Projects/preview-chess-js.png";
+import caloriesTrackerImage from "../../Assets/Projects/preview-calories-tracker.png";
 
 function Projects() {
     return (
@@ -36,6 +37,16 @@ function Projects() {
                             description="Proyecto para jugar al ajedrez 1 contra 1 en el mismo dispositivo. Aplicación web construida desde cero únicamente con Vanilla Javascript."
                             ghLink="https://github.com/raulv7z/chess-js"
                             demoLink="https://chessjsgame.netlify.app/"
+                        />
+                    </Col>
+                    <Col md={5} className="project-card">
+                        <ProjectCard
+                            imgPath={caloriesTrackerImage}
+                            isBlog={false}
+                            title="Calories Tracker"
+                            description="Proyecto para llevar un registro de comidas, ejercicios y cálculo de calorías. App web construida utilizando React + Typescript."
+                            ghLink="https://github.com/raulv7z/calories-tracker"
+                            demoLink="https://track-my-calories.netlify.app/"
                         />
                     </Col>
 
