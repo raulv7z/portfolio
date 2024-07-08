@@ -11,6 +11,7 @@ import {
   DiHtml5,
   DiCss3,
   DiJqueryLogo,
+  DiReact,
 } from "react-icons/di";
 import {
   SiLaravel,
@@ -45,6 +46,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJqueryLogo />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPhp />
